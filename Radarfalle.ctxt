@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Radarfalle
+comment1.params=
+comment1.target=Radarfalle()
+comment2.params=stelle\ messwert
+comment2.target=void\ messwertEintragen(int,\ int)
+comment3.params=
+comment3.target=void\ ausgabe()
+comment4.params=
+comment4.target=void\ ausgabeBonus()
+comment5.params=messwert
+comment5.target=void\ messwertEintragen2(int)
+comment6.params=
+comment6.target=void\ messungenAusgeben()
+comment7.params=messwert
+comment7.target=void\ messwertEintragen(int)
+comment8.params=neueStelle
+comment8.target=void\ stelle(int)
+comment9.params=
+comment9.target=void\ selectionsort()
+numComments=10

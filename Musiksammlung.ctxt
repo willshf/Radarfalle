@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Musiksammlung
+comment1.params=
+comment1.target=Musiksammlung()
+comment2.params=pLied
+comment2.target=void\ liedEintragen(Lied)
+comment3.params=pStelle
+comment3.target=void\ liedLoeschen(int)
+comment4.params=
+comment4.target=void\ alleLiederAusgeben()
+comment5.params=pTitel\ pInterpret\ pLaufzeit
+comment5.target=void\ liedEintragen(java.lang.String,\ java.lang.String,\ int)
+comment6.params=
+comment6.target=void\ playlistL\u00E4nge()
+numComments=7

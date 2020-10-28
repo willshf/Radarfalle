@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Lied
+comment1.params=pTitel\ pInterpret\ pLaufzeit
+comment1.target=Lied(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ gibtTitel()
+comment3.params=
+comment3.target=java.lang.String\ gibInterpret()
+comment4.params=
+comment4.target=int\ gibLaufzeit()
+numComments=5
